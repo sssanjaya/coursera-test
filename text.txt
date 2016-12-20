@@ -1,0 +1,10 @@
+atom text editor
+node.js
+browser sync
+git
+
+node --version
+npm (node package manager) --version
+(install browser sync) npm install -g browser-sync
+browser-sync --version
+ browser-sync start --server --directory --files "**/*"
